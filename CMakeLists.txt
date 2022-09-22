@@ -16,5 +16,4 @@ add_subdirectory(TemplateStack)
 add_subdirectory(ThisPointer1)
 add_subdirectory(DynamicCast)
 add_subdirectory(DynamicCast2)
-add_subdirectory(PardisoTest)
-
+add_subdirectory(tempSpecia1)
